@@ -1,0 +1,97 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+span {
+	color: #01cfcf;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #b8c3ce;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: white;
+}
+.navbar-dark .navbar-brand {
+    color: #b8c3ce;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.navbar-dark .navbar-brand:hover {
+	color: white;
+}
+.bg-success {
+	    background: linear-gradient(to top left,#0f8829,#314a67)!important;
+}
+p {
+	text-align: justify;
+}
+nav {
+	    background-color: #539a56!important;`
+	    `
+}
+.navbar {
+	    padding: 1.5rem 1rem;
+}
+.area {
+	border: 1px solid  grey;
+	padding: 120px 0px;
+	background: linear-gradient(to top left,#92eca6,#869ab1);
+}
+.bmi {
+	background-image: url(images/201.png);
+	background-size: cover;
+	color: black;
+	padding: 80px 0px;
+}
+#bmi-calculator {
+    border: 1px solid;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    /*width: 29em;*/
+    padding: 45px;
+
+}
+#bmi-calculator .field label {
+    width: 3em;
+    color: black;	
+
+}
+#bmiresult {
+    width: 4em;
+    height: 2em;
+    line-height: 2em;
+    float: left;
+    position: relative;
+    font-size: 2em;
+    text-align: center;
+}
+footer {
+	background-color: #adc8de!important;
+}
+.footer-copyright {
+	background: linear-gradient(to top left,#155724,#28a745)!important;
+}
+footer.page-footer.font-small.blue.pt-4 {
+}
+.id{
+	background: skyblue;
+}
+.rem h3{
+	text-align: center;
+}
+
+
+
